@@ -11,9 +11,11 @@ The numbers show the fingers for each key, where 1's are the pinkies and 5 are t
 
 The `S` key on the left hand is the same `S` key as on the top row. `S` is so common in English at the start of words that it's useful to have it twice.
 
-### The Vowels O and E
+### The O Vowel
 
 The `O` key alone represents the sound in "hop" and not "hope".
+
+### The E Vowel
 
 The `E` key is used the sound in "red" and not "reed".
 
@@ -27,10 +29,10 @@ Now that we most of the keyboard available, there are many possible briefs to fo
 | :--- | :--- | :--- |
 | R- or -R | are | Either side works. |
 | SKP- | and | This stroke is arbitrary, remember it by hand shape. |
-| AEU | a | This is the word "a |
+| AEU | a | This is the word "a". |
 | K- | can |  |
 | W- | with | Many people use "w" as an abbreviation for "with". |
-| -B | be | The letter "B" is a homophone to "be" |
+| -B | be | The letter "B" is a homophone to "be". |
 | HE or just E | he | Spelling instead of phonetic. |
 | SHE | she | Spelling instead of phonetic. |
 | WE | we | Spelling instead of phonetic. |
@@ -43,15 +45,17 @@ _\*Notice that _`{}`_ are used to denote a special character in Plover's transla
 
 ### How to Practice
 
-It might be valuable for you to write down or print briefs that you have trouble remembering. Some stenographers find it helpful to say the raw in their head as a mnemonic. For example, you might see `SKP` for "and", and think "skuhpah" as you stroke it to help remember the keys.
+It can be useful for you to write down or print the briefs you have trouble remembering. Some stenographers find it helpful to say the raw in their head as a mnemonic. For example, you might see `SKP` for "and", and think "skuhpah" as you stroke it to help remember the keys.
 
 Others like to imagine the shapes of the chords, thinking of `SKP` as a ramp heading up on the left-hand side of the keyboard.
 
 Finally, often building muscle memory is crucial for writing fast. Try drilling the brief in the middle of a sentence, get used to moving your hands in and out of that brief's shape. `SKP/HA/SKP/PAP/SKP/SAT/SKP/HAT`.
 
+---
+
 ### Practice
 
-Do your best to not refer to the charts all the time. Eventually you will need to go without them. Sometimes you can figure out the meaning of an outline based on the context of a sentence.
+Do your best to not refer to the charts all the time. Eventually, you will need to go without them. You can sometimes figure out the meaning of an outline based on the context of a sentence.
 
 The skill of recognizing words based on context is helpful for advanced stenographers who may need to dissect a word that they wrote incorrectly and find what they meant.
 
